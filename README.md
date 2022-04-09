@@ -25,3 +25,4 @@ This is a collections of all sample flutter apps.
 ## Working with API:
 
 - [climate: A weather information showing app](https://github.com/EaintMM/climate)
+- [coin-changer: A app for exchanging bitcoin and other currencies such as USD,SGD,etc.](https://github.com/EaintMM/coin_changer)
