@@ -26,3 +26,7 @@ This is a collections of all sample flutter apps.
 
 - [climate: A weather information showing app](https://github.com/EaintMM/climate)
 - [coin-changer: A app for exchanging bitcoin and other currencies such as USD,SGD,etc.](https://github.com/EaintMM/coin_changer)
+
+## State Management with Bloc:
+
+- [counter-with-bloc:A simple flutter counter app with bloc(cubit) state management.](https://github.com/EaintMM/counter_with_bloc)
