@@ -16,6 +16,7 @@ This is a collections of all sample flutter apps.
 ## Small Pieces and Components:
 
 - [backdrop-samp: Flutter backdrop animation](https://github.com/EaintMM/backdrop_samp)
+- [background-stream: Background color randomly changing app using Stream periodic](https://github.com/EaintMM/background_stream)
 
 ## Fun Apps:
 
