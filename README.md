@@ -36,3 +36,7 @@ This is a collections of all sample flutter apps.
 
 - [counter-with-bloc:A simple flutter counter app with bloc(cubit) state management.](https://github.com/EaintMM/counter_with_bloc)
 - [timer-with-bloc:One minute timer app with bloc state management.](https://github.com/EaintMM/timer_with_bloc)
+
+## Flutter and Firebase:
+
+- [flash-chat:A simple flutter app for chatting.](https://github.com/EaintMM/flash_chat)
