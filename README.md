@@ -40,3 +40,7 @@ This is a collections of all sample flutter apps.
 ## Flutter and Firebase:
 
 - [flash-chat:A simple flutter app for chatting.](https://github.com/EaintMM/flash_chat)
+
+## State Management with Provider:
+
+- [todo-app:A simple flutter to-do app with provider state management.](https://github.com/EaintMM/todo_app)
