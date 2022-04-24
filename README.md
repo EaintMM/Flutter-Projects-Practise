@@ -11,6 +11,7 @@ This is a collections of all sample flutter apps.
 - [mi-care: Business card UI layout builind from basic flutter widgets](https://github.com/EaintMM/mi_card)
 - [dice-app: Dice randomly rolling when user clicks ](https://github.com/EaintMM/dice_app)
 - [magic-ball: Random answers generating  ](https://github.com/EaintMM/magic_8_balls)
+- [startup-namer: A simple random names generator](https://github.com/EaintMM/startup_namer)
 
 
 ## Small Pieces and Components:
