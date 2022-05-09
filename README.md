@@ -49,4 +49,4 @@ This is a collections of all sample flutter apps.
 ## Flutter Dev:
 ## Material Design Code Labs:
 
-- [todo-app:A simple flutter to-do app with provider state management.](https://github.com/EaintMM/todo_app)
+- [shrine:Material Design code labs from flutter dev.](https://github.com/EaintMM/shrine)
