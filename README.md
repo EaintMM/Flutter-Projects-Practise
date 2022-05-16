@@ -50,3 +50,4 @@ This is a collections of all sample flutter apps.
 ## Material Design Code Labs:
 
 - [shrine:Material Design code labs from flutter dev.](https://github.com/EaintMM/shrine)
+- [jsonexample:JSON serialization example.](https://github.com/EaintMM/jsonexample)
