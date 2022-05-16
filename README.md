@@ -55,5 +55,5 @@ This is a collections of all sample flutter apps.
 - [jsonexample:JSON serialization example.](https://github.com/EaintMM/jsonexample)
 
 ### Testing samples:
-- [jsonexample:JSON serialization example.](https://github.com/EaintMM/jsonexample)
+- [counter-with-test:Unit test example.](https://github.com/EaintMM/counter_with_test)
 
