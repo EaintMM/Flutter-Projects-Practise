@@ -33,7 +33,15 @@ This is a collections of all sample flutter apps.
 - [climate: A weather information showing app](https://github.com/EaintMM/climate)
 - [coin-changer: A app for exchanging bitcoin and other currencies such as USD,SGD,etc.](https://github.com/EaintMM/coin_changer)
 
-## State Management with Bloc:
+## State Management:
+
+## State Management with Provider:
+
+- [todo-app:A simple flutter to-do app with provider state management.](https://github.com/EaintMM/todo_app)
+- [provider-sample: A sample flutter movie list app with provider state management.](https://github.com/EaintMM/provider_sample)
+
+
+### State Management with Bloc:
 
 - [counter-with-bloc:A simple flutter counter app with bloc(cubit) state management.](https://github.com/EaintMM/counter_with_bloc)
 - [timer-with-bloc:One minute timer app with bloc state management.](https://github.com/EaintMM/timer_with_bloc)
@@ -42,9 +50,7 @@ This is a collections of all sample flutter apps.
 
 - [flash-chat:A simple flutter app for chatting.](https://github.com/EaintMM/flash_chat)
 
-## State Management with Provider:
 
-- [todo-app:A simple flutter to-do app with provider state management.](https://github.com/EaintMM/todo_app)
 
 ## Flutter Dev:
 ### Material Design Code Labs:
