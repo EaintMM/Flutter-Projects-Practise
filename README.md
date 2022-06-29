@@ -35,7 +35,7 @@ This is a collections of all sample flutter apps.
 
 ## State Management:
 
-## State Management with Provider:
+### State Management with Provider:
 
 - [todo-app:A simple flutter to-do app with provider state management.](https://github.com/EaintMM/todo_app)
 - [provider-sample: A sample flutter movie list app with provider state management.](https://github.com/EaintMM/provider_sample)
@@ -45,6 +45,11 @@ This is a collections of all sample flutter apps.
 
 - [counter-with-bloc:A simple flutter counter app with bloc(cubit) state management.](https://github.com/EaintMM/counter_with_bloc)
 - [timer-with-bloc:One minute timer app with bloc state management.](https://github.com/EaintMM/timer_with_bloc)
+
+### Get X:
+
+- [navigate-with-getx:A sample app for navigation with Get X.](https://github.com/EaintMM/navigat_with_getx)
+
 
 ## Flutter and Firebase:
 
