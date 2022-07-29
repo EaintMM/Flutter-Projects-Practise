@@ -18,6 +18,8 @@ This is a collections of all sample flutter apps.
 
 - [backdrop-samp: Flutter backdrop animation](https://github.com/EaintMM/backdrop_samp)
 - [background-stream: Background color randomly changing app using Stream periodic](https://github.com/EaintMM/background_stream)
+- [grid-view: Grid view of product list](https://github.com/EaintMM/grid_example)
+- [screen-flow: Splash screen, onboarding screens, Home back button disabled](https://github.com/EaintMM/screen_flow)
 
 ## Fun Apps:
 
